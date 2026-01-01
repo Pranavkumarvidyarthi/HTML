@@ -7,7 +7,7 @@
     <h1>Student Profile</h1>
     <img src="image.jpg" width="150">
     <p>Name: Rahul</p>
-    <p>Course: BCA</p>
+    <p>Course: MCA</p>
 
     <h3>Skills</h3>
     <ul>
